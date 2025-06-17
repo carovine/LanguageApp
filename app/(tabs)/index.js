@@ -1,6 +1,6 @@
 import { Text, View,Switch,StyleSheet,ScrollView } from "react-native";
-import DropdownComponent from "./components/DropdownComponent";
-import ProfilePage from './components/ProfilePage'
+import DropdownComponent from '../../components/DropdownComponent';
+import ProfilePage from '../../components/ProfilePage'
 import { useEffect, useState } from "react";
 
 import Slider from '@react-native-community/slider';

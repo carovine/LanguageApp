@@ -1,6 +1,5 @@
 import { StyleSheet,Text, View } from "react-native";
 import {Dropdown} from 'react-native-element-dropdown'
-import AntDesign from '@expo/vector-icons/AntDesign'
 import {useState} from 'react'
 import Ionicons from '@expo/vector-icons/Ionicons';
 
